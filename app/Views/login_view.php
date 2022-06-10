@@ -18,7 +18,7 @@
 <body class="hold-transition login-page">
 	<div class="login-box">
 		<div class="login-logo">
-			<a href="#"><b><?php //echo $system_title;?></b> 1.0</a>
+			<a href="#"><b><?php //echo $system_title;?>Sys Asistencia</b> 1.0</a>
 			<img src="template/img/logo.png" width="200">
 		</div>
 		<div class="login-box-body">
